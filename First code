@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+  <script>
+    'use strict';
+    var name = prompt ("What's your name?", default);
+    
+    alert (name);
+    
+  </script>
+</body>
+
+</html>
