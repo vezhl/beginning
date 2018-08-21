@@ -4,9 +4,9 @@
 <body>
   <script>
     'use strict';
-    var name = prompt ("What's your name?", default);
+    var name = prompt("What's your name?", " ");
     
-    alert (name);
+    alert( name );
     
   </script>
 </body>
